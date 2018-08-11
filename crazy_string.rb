@@ -1,7 +1,7 @@
 # write your method here
 
-def crazy_strings(a.upcase.reverse,b)
-  puts "#{a}"
+def crazy_strings(a,b)
+  puts (#{a}.upcase)
   puts #{b}.swapcase.replace
 end
 
