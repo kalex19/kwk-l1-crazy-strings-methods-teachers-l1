@@ -5,4 +5,4 @@ def crazy_strings(a,b)
   puts #{b}.swapcase.replace
 end
 
-crazy_strings
+crazy_strings("hello","Bob")
