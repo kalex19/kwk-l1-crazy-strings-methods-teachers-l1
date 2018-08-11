@@ -1,9 +1,8 @@
 # write your method here
 
-def crazy_strings(a,b)
-  puts (#{a}.upcase)
-  puts #{b}.swapcase.replace
+def crazy_strings(name,word)
+  puts ("#{name}".upcase)
+  puts #{word}.swapcase.replace
 end
-end 
 
 crazy_strings("hello","Bob")
